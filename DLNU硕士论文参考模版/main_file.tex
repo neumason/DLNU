@@ -1,0 +1,153 @@
+\documentclass[master]{thesis-uestc}
+\allowdisplaybreaks[4]
+
+%本参考模板由大连民族大学计算机学院&大连市汉字计算机字库设计技术创新中心开发制作
+%参考模版、参考模版、参考！花了很长之间开发制作，如有不足可自行改进
+%使用的是TeXstudio2023版本编译完成；
+%使用前需要安装文件包4种Adobe字体库（右键选择为所有用户安装），未安装字库将报错
+%编译方式Xelatex->Bibtex->Xelatex->Xelatex
+%感谢为本模板做过开发制作的教师和研究生：WangYG、GuoXQ、GaoYX、WangCR
+%版本信息v.20，时间为2023年5月8日 18：29
+
+
+%请填写论文的基本信息
+
+%分类号
+\categoryid{X仔细查准X}
+
+%密级
+\secretelevel{公开}
+
+%研究生学号
+\studentid{XXXXXXXXXXX}
+
+%学校代码
+\schoolid{12026}
+
+%论文中文标题
+\title{基于\XeLaTeX{}的大连民族大学硕士学位论文撰写模板}
+
+%英文标题                                
+\titleEn{\XeLaTeX{} Template for Master Thesis for Dalian Minzu University（除了副词介词首字母大写）}
+
+%作者中文姓名
+\author{XXXX}
+
+%作者英文姓名                                                    
+\authorEn{XX XX（作者）}
+
+%作者所在学院
+\department{XXX}
+
+
+%指导教师中文姓名                                               
+\advisor{XXXX}
+
+%指导教师英文姓名                                  
+\advisorEn{XX XX（指导教师）}
+
+%指导教师职称中文
+\advisorLevel{XXXX}
+
+%指导教师职称英文
+\advisorLevelEn{XXXX}
+
+%指导教师单位中文名
+\advisorDepartment{XXXX}
+
+%副指导教师中文姓名
+\fuadvisor{XXXX}
+
+%副指导教师英文姓名
+\fuadvisorEn{XX XX（副指导教师）}
+
+%副指导教师职称中文
+\fuadvisorLevel{XXXX}
+
+%副指导教师职称英文
+\fuadvisorLevelEn{XXXX}
+
+%副指导教师单位中文名
+\fuadvisorDepartment{XXXX}
+
+%申请学位级别
+\degreeLevel{XXXX}
+
+%学科类别
+\subjectCategory{电子信息}
+
+%学科专业中文名称
+\subjectMajor{计算机技术}
+
+%学科专业英文名称
+\subjectMajorEn{XXXX（学科专业英文名称）}
+
+%论文提交日期
+\paperSubmitDate{XXXX}
+
+%论文答辩日期
+\paperDefenseDate{XXXX}
+
+%学位授予日期
+\degreeAwardingDate{XXXX}
+
+%答辩委员会主席
+\defenseChair{XXXX}
+
+%答辩委员会主席职称
+\defenseChairLevel{XXXX}
+
+%中文标题页底部日期
+\titlePageBottomDate{202X年X月}       
+
+%英文标题页底部日期
+\titlePageBottomDateEn{April,2023(英文日期)}
+
+%封面底部日期
+\coverPageBottomDate{二〇二X年X月}
+
+\begin{document}
+\makecover  %封面
+
+% abstract
+\include{misc/chinese_abstract} %中文摘要
+\include{misc/english_abstract} %英文摘要
+
+% table of contents
+\thesistableofcontents   %目录
+
+%主要符号表
+\include{misc/symbols}
+
+% thesis contents
+\thesischapterexordium
+\include{chapter/ch1}        %第一章 绪论
+\include{chapter/ch2}        %第二章
+\include{chapter/ch3}        %第三章
+\include{chapter/ch4}        %第四章
+%\include{chapter/ch5}        %第五章
+\include{chapter/ch6}        %第五章 结论
+%\include{chapter/template}  %若需添加第六章请用这个模板修改
+
+
+%参考文献
+
+\setlength{\bibhang}{2em}
+\bibpunct{[}{]}{,}{s}{}{}
+\setlength{\bibsep}{2pt}
+\bibliographystyle{gbt7714-2005}
+{\wuhao
+\bibliography{reference}
+}
+
+
+% misc
+\include{misc/acknowledgement}        %致谢
+
+% comment while no need
+\include{misc/resume}                 %附录，论文若无附录则用%将该命令取消
+%\thesisloadachievement{publications} %攻读学位期间取得的成果，若无成果则用%将该命令取消
+%\include{misc/translate_original}    %外文资料原文，论文若未引用外文资料则用%将该命令取消
+%\include{misc/translate_chinese}     %外文资料译文，论文若未引用外文资料则用%将该命令取消
+
+\end{document}

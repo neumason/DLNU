@@ -1,0 +1,21 @@
+\newdimen\bibspacing
+\setlength\bibspacing\z@
+\renewenvironment{thebibliography}[1]{%
+ \bibfont\bibsection\parindent \z@\list
+   {\@biblabel{\arabic{NAT@ctr}}}{\@bibsetup{#1}%
+    \setcounter{NAT@ctr}{0}}%
+    \ifNAT@openbib
+      \renewcommand\newblock{\par}
+    \else
+      \renewcommand\newblock{\hskip .11em \@plus.33em \@minus.07em}%
+    \fi
+    \sloppy\clubpenalty4000\widowpenalty4000
+    \sfcode`\.=1000\relax
+    \let\citeN\cite \let\shortcite\cite
+    \let\citeasnoun\cite
+            \itemsep\bibspacing %
+            \parsep\z@skip %
+ }{\def\@noitemerr{%
+  \PackageWarning{natbib}
+     {Empty `thebibliography' environment}}%
+  \endlist\vskip-\lastskip}

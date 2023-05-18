@@ -1,0 +1,22 @@
+\newdimen\bibindent
+\setlength\bibindent{1.5em}
+\newdimen\bibspacing
+\setlength\bibspacing\z@
+\renewenvironment{thebibliography}[1]{%
+  \section*{\refname
+        \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep 
+            \itemsep\z@skip    % should this be commented out?
+            \parsep\z@skip     % should this be commented out?
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy\clubpenalty4000\widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}

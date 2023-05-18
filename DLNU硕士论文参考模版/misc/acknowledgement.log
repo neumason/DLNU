@@ -1,0 +1,958 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2021.3.13)  17 NOV 2021 14:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**acknowledgement.tex
+(./acknowledgement.tex
+LaTeX2e <2018-12-01>
+(d:/software/tex/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+(d:/software/tex/texlive/2019/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(d:/software/tex/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(d:/software/tex/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(d:/software/tex/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(d:/software/tex/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(d:/software/tex/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/software/tex/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(d:/software/tex/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count80
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count81
+\c@sapage=\count82
+
+(d:/software/tex/texlive/2019/texmf-dist/tex/latex/standalone/standalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+)
+(d:/software/tex/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(d:/software/tex/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\sa@box=\box27
+)
+(./acknowledgement.aux
+! Undefined control sequence.
+l.7 \FN@pp@footnotehinttrue
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \oddpage@label
+                  {6}{69}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \oddpage@label{6
+                    }{69}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+\openout1 = `acknowledgement.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+! Undefined control sequence.
+l.5 \thesisacknowledgement
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 本 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 文 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 指 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 导 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 授 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 段 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 晓 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 东 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 授 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 与 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 王 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 元 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 刚 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 讲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 亲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 切 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 怀 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 悉 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 指 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 导 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 下 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 完 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 本 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 人 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 攻 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 读 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 硕 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 士 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 所 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 做 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 工 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 作 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 总 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 结 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 时 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 光 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 荏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 苒 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 白 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 驹 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 过 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 隙 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 两 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 半 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 硕 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 士 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 即 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 将 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 结 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 束 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 临 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 近 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 毕 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 业 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 回 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 忆 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 过 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 去 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 两 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 半 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 与 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 习 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 慨 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 良 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 多 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 首 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 先 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谢 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 指 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 导 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 段 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 晓 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 东 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 授 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 与 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 王 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 元 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 刚 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 讲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 两 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 半 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 时 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 光 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 进 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 高 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 尚 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 无 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 私 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 且 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 耐 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 细 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 致 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 培 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 养 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 与 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 育 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 段 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 晓 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 东 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 授 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 犀 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 利 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 敏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 锐 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 术 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 洞 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 察 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 力 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 渊 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 渟 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 岳 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 峙 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 风 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 德 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 仅 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 习 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 面 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 断 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 督 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 促 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 鼓 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 励 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 同 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 时 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 上 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 也 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 给 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 予 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 极 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 大 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 王 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 元 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 刚 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 讲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 深 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 厚 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 渊 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 博 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 知 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 识 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 问 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 认 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 真 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 严 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谨 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 治 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 度 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 及 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 因 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 材 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 施 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 培 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 养 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 式 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 使 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 两 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 半 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 收 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 获 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 颇 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 丰 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 断 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 进 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 步 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 取 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 些 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 微 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 足 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 道 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 全 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 然 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 离 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 开 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 耐 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 细 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 专 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 培 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 养 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 式 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 记 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 寒 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 假 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 因 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 人 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 求 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 选 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 择 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 春 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 节 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 留 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 校 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 无 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 疑 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 添 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 加 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 很 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 多 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 麻 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 烦 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 打 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 扰 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 但 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 依 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 然 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 持 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 着 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 正 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 常 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 工 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 作 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 节 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 奏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 仅 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 认 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 真 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 指 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 导 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 习 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 上 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 断 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 进 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 取 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 同 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 时 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 还 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 寒 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 假 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 怀 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 良 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 多 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 那 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 难 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 忘 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 寒 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 假 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 因 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 春 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 节 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 留 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 校 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 而 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 因 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 导 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 怀 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ！ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 者 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 传 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 道 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 授 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 业 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 惑 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 也 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 无 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 论 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 习 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 上 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 、 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 上 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 、 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 还 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 道 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 德 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 上 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 正 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 言 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 传 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 身 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谆 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谆 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 诲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 始 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 终 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 督 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 促 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 着 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 断 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 努 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 力 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 并 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 激 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 励 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 着 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 、 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 染 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 着 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 让 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 日 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 后 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 依 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 然 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 会 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 二 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 榜 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 样 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ！ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 除 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 此 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 之 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 外 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 还 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谢 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 验 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 室 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 他 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谢 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 各 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 老 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 师 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 整 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 验 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 室 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 尽 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 尽 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 责 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 并 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 且 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 业 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 无 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 私 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 地 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 给 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 予 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 帮 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 助 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ！ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 次 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谢 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 硕 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 士 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 认 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 识 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 几 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 朋 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 友 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 人 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 结 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 几 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 位 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 三 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 幸 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 只 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 惜 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 送 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 君 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 千 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 里 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 终 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 须 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 别 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 他 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 日 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 江 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 湖 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 再 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 见 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 定 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 当 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 把 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 酒 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 言 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 欢 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ！ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 最 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 后 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 感 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 谢 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 父 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 亲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 母 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 亲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 读 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 期 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 爱 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 牵 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 挂 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 理 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 支 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 持 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 父 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 母 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 远 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 游 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 游 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 必 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 未 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 多 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 加 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 陪 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 伴 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 孝 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 敬 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 父 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 母 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 直 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 心 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 愧 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 疚 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 希 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 望 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 日 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 后 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 活 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 弥 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 补 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 遗 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 憾 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.19 \checkoddpage
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20   \ifoddpage
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21       \blankpage
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+l.22     \else
+              
+I'm ignoring this; it doesn't match any \if.
+
+! Improper \prevdepth.
+\newpage ...everypar {}\fi \par \ifdim \prevdepth 
+                                                  >\z@ \vskip -\ifdim \prevd...
+l.23       \newpage
+                   
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.23       \newpage
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[1
+
+]
+! Extra \fi.
+l.24   \fi
+          
+I'm ignoring this; it doesn't match any \if.
+
+! Too many }'s.
+\endsa@boxit ...dvarwidth \color@endgroup \egroup 
+                                                  
+l.26 \end{document}
+                   
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[2] (./acknowledgement.aux) ) 
+Here is how much of TeX's memory you used:
+ 701 strings out of 492922
+ 11409 string characters out of 6131317
+ 73749 words of memory out of 5000000
+ 4802 multiletter control sequences out of 15000+600000
+ 3648 words of font info for 15 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 34i,4n,56p,517b,102s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on acknowledgement.pdf (2 pages).
