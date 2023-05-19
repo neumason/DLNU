@@ -1,3 +1,6 @@
+https://img.shields.io/badge/Release-Ver1.0.0-blue.svg
+
+
 # 大连民族大学研究生学位论文Latex和word参考模版
 
 1）本模板由中心研究生按学校学位论文规范理解开发制作的参考模板；
