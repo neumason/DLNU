@@ -1,3 +1,5 @@
+![QQ截图20230519153904](https://github.com/neumason/DLNU/assets/18734032/ff8617e9-26b7-4f71-ad75-e0cf37b7a5e2)
+
 ## 大连民族大学研究生学位论文Latex和word参考模版
 
 1）本模板由中心研究生按学校学位论文规范理解开发制作的参考模板；
