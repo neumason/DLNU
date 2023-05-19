@@ -175,7 +175,7 @@
   \newpage
   \fancyhf{}
   \fancyhead[C]{\fontsize{10.5pt}{12.6pt}\selectfont 缩略词表}
-  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont\Roman{pseudopage}}
+  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont-\Roman{pseudopage}-}
   \setlength\glsdescwidth{.7\textwidth}
   \pdfbookmark{缩略词表}{glossary}
   \printglossary[style=long-uestc, title={\protect\centering 缩略词表}, nonumberlist, nogroupskip]
@@ -439,7 +439,7 @@
 }
 
 \newenvironment{chineseabstract}{
-  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont\Roman{pseudopage}}
+  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont-\Roman{pseudopage}-}
   \pagenumbering{Roman}
     \pdfbookmark{中文摘要}{chineseabstract}
     \chapter*{摘\chinesespace 要}
@@ -482,7 +482,7 @@
 
 
 \newenvironment{englishabstract}{
-  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont\Roman{pseudopage}}
+  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont-\Roman{pseudopage}-}
   \pagenumbering{Roman}
   \pdfbookmark{英文摘要}{englishabstract}
   \chapter*{\bfseries ABSTRACT}
@@ -902,13 +902,13 @@
   \fancyhf{}
   \fancyhead[CO]{\fontsize{10.5pt}{12.6pt}\kaiti 大连民族大学硕士学位论文 \hfill \leftmark}
   \fancyhead[CE]{\fontsize{10.5pt}{12.6pt}\kaiti 大连民族大学硕士学位论文 \hfill \leftmark}
-  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont\thepage}
+  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont-\thepage-}
 }
 
 \pretocmd{\tableofcontents}{
   \fancyhf{}
   \fancyhead[C]{\fontsize{10.5pt}{12.6pt}\kaiti 大连民族大学硕士学位论文 \hfill 目录}
-  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont\Roman{pseudopage}}
+  \fancyfoot[CE,CO]{\fontsize{9pt}{10.8pt}\selectfont-\Roman{pseudopage}-}
   \pdfbookmark{目录}{toc}
 }{}{}
 
