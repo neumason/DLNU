@@ -6,3 +6,4 @@
 4.	彩色字体等说明性文字正式提交论文时请去掉。
 5.	https://www.mathtype.cn/xiazai.html mathtype破解版下载，具体破解教程参考：https://www.jinshanwps.com/news/52374.html 以上资料均来自于网络。
 
+# 试一试Latex，Word坑太多，会积重难返！
