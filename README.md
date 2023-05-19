@@ -17,7 +17,7 @@
 
 2）Office word或WPS的公式转为PDF会变成图片，很不清晰，且有时候乱码。
 
-# 不用Latex排版，呵呵！，Latex版式外审通过率是word或wps的n倍：
+# 不用Latex排版，呵呵！Latex版式外审通过率是word或WPS的n倍：
 
 1）	学位论文形式错误超过5个理论上外审就可以直接毙掉；
 
