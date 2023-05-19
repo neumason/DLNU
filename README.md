@@ -1,4 +1,5 @@
-![QQ截图20230519153904](https://github.com/neumason/DLNU/assets/18734032/ff8617e9-26b7-4f71-ad75-e0cf37b7a5e2)
+![QQ截图20230519154114](https://github.com/neumason/DLNU/assets/18734032/7a430ef3-1400-4292-b369-fc448786e9f0)
+
 
 ## 大连民族大学研究生学位论文Latex和word参考模版
 
