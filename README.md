@@ -4,7 +4,7 @@
 
 2）参考模版、参考模版、参考模版！如有不足请可批评指正；
 
-3）$\color{red}{请加星加关注，加Star、watch和forking。$
+3）$\color{red}{请加星加关注，加Star、watch和forking。}$
 
 4）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR
 
