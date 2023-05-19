@@ -4,5 +4,5 @@
 2.	必须安装字库，模版使用了黑体、宋体、Times New Roman字体，作者开始使用该模板前请安装该字体。字体文件在相应文件夹。
 3.	如文中使用了公式，作者需使用MathType公式编辑器7.0，不要使用office自带公式编辑器（因为自带公式编辑器不能设置相应字体）。
 4.	彩色字体等说明性文字正式提交论文时请去掉。
-5.	https://www.mathtype.cn/xiazai.html mathtype破解版下载，来自于网络。
+5.	https://www.mathtype.cn/xiazai.html mathtype破解版下载，具体破解教程参考：https://www.jinshanwps.com/news/52374.html； 以上资料均来自于网络。
 
