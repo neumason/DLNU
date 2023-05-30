@@ -9,6 +9,10 @@
  
 4）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR、HeJJ
 
+5）texlive下载地址：https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/
+
+6）TeXstudio下载地址：https://www.texstudio.org/#download
+
 ## 版本说明
 1）版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
 
