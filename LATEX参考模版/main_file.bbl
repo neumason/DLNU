@@ -1,0 +1,98 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\url{#1}}
+
+\bibitem{Mawhorter2021}
+\bibeditor{ANON}\@. \bibbooktitle{FDG '21\thinspace{}\textnormal{: }Fractal
+  Coordinates for Incremental Procedural Content Generation}\bibmark{[C/OL]}\@.
+  \bibaddress{New York, NY, USA}\thinspace{}\textnormal{:
+  }\bibpublisher{Association for Computing Machinery}\@,
+  \bibyear{2021}\thinspace{}\textnormal{: }\bibpages{1–10}\@.
+  \url{https://doi.org/10.1145/3472538.3472576}\@.
+
+\bibitem{Subramaniam2016}
+\bibeditor{ANON}\@. \bibbooktitle{ICBBE '16\thinspace{}\textnormal{:
+  }Preparation and characterization of kenaf derived heterogeneous catalyst for
+  esterification reaction}\bibmark{[C/OL]}\@. \bibaddress{New York, NY,
+  USA}\thinspace{}\textnormal{: }\bibpublisher{Association for Computing
+  Machinery}\@, \bibyear{2016}\thinspace{}\textnormal{: }\bibpages{86–89}\@.
+  \url{https://doi.org/10.1145/3022702.3022727}\@.
+
+\bibitem{ref_1}
+\bibauthor{朱文杰}\@.
+  \bibtitle{大数据背景下的课程思政建设研究——以数字图像处理课程为例}\bibmark{[J]}\@.
+  \bibjournal{中国信息技术教育}\@, \bibyear{2023}\@,
+  \bibvolume{No.405}\bibnumber{(90-92)}\@.
+
+\bibitem{ref_2}
+\bibauthor{小默}\@.
+  \bibtitle{“星船”的第一版用户手册发布}\bibmark{[J]}\@.
+  \bibjournal{太空探索}\@, \bibyear{2020}\@,
+  \bibvolume{No.359}\bibnumber{(24)}\@.
+
+\bibitem{ref_3}
+\bibauthor{陈建勋}\@.
+  \bibtitle{动态计算圆弧并面积的一个新算法}\bibmark{[J]}\@.
+  \bibjournal{计算机辅助设计与图形学学报}\@, \bibyear{1998}\@.
+
+\bibitem{ref_4}
+\bibauthor{刘佳惠\@, 迟健男}\@.
+  \bibtitle{基于特征的视线跟踪方法研究综述}\bibmark{[J/OL]}\@.
+  \bibjournal{自动化学报}\@, \bibyear{2021}\@,
+  \bibvolume{47}\bibnumber{(252-277)}\@.
+  \url{http://dx.doi.org/10.16383/j.aas.c180844}\@.
+
+\bibitem{ref_5}
+\bibauthor{ANON}\@. \bibtitle{Paper Abstracts Contained in the Proceedings of
+  the 10th International Conference on Semi-Solid Processing of Alloys and
+  Composites,S2P2008（Part Ⅲ）}\bibmark{[J]}\@. \bibjournal{China
+  Foundry}\@, \bibyear{2009}\@, \bibvolume{6}\bibnumber{(378-382)}\@.
+
+\bibitem{Anderson1998}
+\bibeditor{ANON}\@. \bibbooktitle{DAC '98\thinspace{}\textnormal{: }Technology
+  mapping for large complex PLDs}\bibmark{[C/OL]}\@. \bibaddress{New York, NY,
+  USA}\thinspace{}\textnormal{: }\bibpublisher{Association for Computing
+  Machinery}\@, \bibyear{1998}\thinspace{}\textnormal{:
+  }\bibpages{698–703}\@. \url{https://doi.org/10.1145/277044.277220}\@.
+
+\bibitem{ref_6}
+\bibauthor{ANON}\@. \bibtitle{文后参考文献(专利)格式}\bibmark{[J]}\@.
+  \bibjournal{当代农机}\@, \bibyear{2016}\@,
+  \bibvolume{No.307}\bibnumber{(80)}\@.
+
+\bibitem{ref_7}
+\bibauthor{郑洪仁;周小华;吴克忠}\@.
+  \bibtitle{信息技术　开放系统互连　系统管理　第2部分：状态管理功能}\bibmark{[EB]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{国家技术监督局}\@, \bibyear{1997}\@.
+
+\bibitem{Baskaran2008}
+\bibeditor{ANON}\@. \bibbooktitle{PPoPP '08\thinspace{}\textnormal{: }Automatic
+  data movement and computation mapping for multi-level parallel architectures
+  with explicitly managed memories}\bibmark{[C/OL]}\@. \bibaddress{New York,
+  NY, USA}\thinspace{}\textnormal{: }\bibpublisher{Association for Computing
+  Machinery}\@, \bibyear{2008}\thinspace{}\textnormal{: }\bibpages{1–10}\@.
+  \url{https://doi.org/10.1145/1345206.1345210}\@.
+
+\end{thebibliography}

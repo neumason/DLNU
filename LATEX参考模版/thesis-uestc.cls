@@ -766,7 +766,7 @@
 \vspace{0.1cm}
 
 \begin{center}
-{\erwu THESIS FOR MASTER'S DEGREE} \\
+{\erwu MASTER THESIS} \\
 \end{center}
 
 \vspace{0.2cm}
@@ -775,12 +775,13 @@
   \renewcommand\arraystretch{1.2}
   \begin{tabular}{p{0.25\textwidth}p{0.55\textwidth}} 
    {\xiaosan \heiti 论\hspace{8pt}文\hspace{8pt}题\hspace{8pt}目} & \xiaosan \heiti \thetitle \\
-   {\xiaosan \heiti 作\hspace{54pt}者} & {\xiaosan \heiti \theauthor} \\
+   {\xiaosan \heiti 作\hspace{8pt}者\hspace{8pt}姓\hspace{8pt}名} & {\xiaosan \heiti \theauthor} \\
    {\xiaosan \heiti 学\hspace{54pt}号} & {\xiaosan \heiti \thestudentid} \\
-   {\xiaosan \heiti 学\hspace{54pt}院} & {\xiaosan \heiti \thedepartment} \\
-   {\xiaosan \heiti 学\hspace{8pt}位\hspace{8pt}类\hspace{8pt}别} & {\xiaosan \heiti \thedegreeLevel} \\
-   {\xiaosan \heiti 学\hspace{54pt}科} & {\xiaosan \heiti \thesubjectCategory} \\
-   {\xiaosan \heiti 指\hspace{8pt}导\hspace{8pt}教\hspace{8pt}师} & {\xiaosan \heiti \theadvisor \hspace{9pt} \theadvisorLevel \hspace{15pt} \thefuadvisor \hspace{9pt} \thefuadvisorLevel}
+   {\xiaosan \heiti 专\hspace{8pt}业\hspace{8pt}类\hspace{8pt}别} & {\xiaosan \heiti \thesubjectCategory} \\
+   {\xiaosan \heiti 专\hspace{8pt}业\hspace{8pt}领\hspace{8pt}域} & {\xiaosan \heiti \thesubjectMajor} \\
+   {\xiaosan \heiti 指\hspace{8pt}导\hspace{8pt}教\hspace{8pt}师} & {\xiaosan \heiti \theadvisor \hspace{9pt} \theadvisorLevel }\\
+    {\xiaosan \heiti 副\hspace{2pt}指\hspace{2pt}导\hspace{2pt}教\hspace{2pt}师} & {\xiaosan \heiti \thefuadvisor \hspace{9pt} \thefuadvisorLevel}\\
+   {\xiaosan \heiti 所\hspace{8pt}在\hspace{8pt}学\hspace{8pt}院} & {\xiaosan \heiti \thedepartment} 
   \end{tabular}
 \end{center}
   
@@ -815,8 +816,8 @@
    {\sihao 作\hspace{9pt}者\hspace{9pt}姓\hspace{9pt}名：} & \multicolumn{3}{l}{{\sihao \theauthor}}  \\
    {\sihao 指\hspace{9pt}导\hspace{9pt}教\hspace{9pt}师：} & \multicolumn{3}{l}{{\sihao \theadvisor \hspace{9pt} \theadvisorLevel \hspace{9pt} \theadvisorDepartment}}  \\
    {\sihao 副\hspace{3.3pt}指\hspace{3.3pt}导\hspace{3.3pt}教\hspace{3.3pt}师：} & \multicolumn{3}{l}{{\sihao \thefuadvisor \hspace{9pt} \thefuadvisorLevel \hspace{9pt} \thefuadvisorDepartment}}  \\
-   {\sihao 申请学位级别：} & {\sihao \thedegreeLevel}  & {\sihao 学\hspace{14pt}科\hspace{14pt}类\hspace{14pt}别：} & {\sihao \thesubjectCategory} \\
-   {\sihao 学科专业名称：} & \multicolumn{3}{l}{{\sihao \thesubjectMajor}} \\
+   {\sihao 申请学位层次：} & {\sihao \thedegreeLevel}  & {\sihao 专\hspace{2pt}业\hspace{2pt}学\hspace{2pt}位\hspace{2pt}类\hspace{2pt}别：} & {\sihao \thesubjectCategory} \\
+   {\sihao 专业领域名称：} & \multicolumn{3}{l}{{\sihao \thesubjectMajor}} \\
    {\sihao 论文提交日期：} & {\sihao \thepaperSubmitDate }  & {\sihao 论\hspace{2.6pt}文\hspace{2.6pt}答\hspace{2.6pt}辩\hspace{2.6pt}日\hspace{2.6pt}期：} & {\sihao \thepaperDefenseDate} \\
    {\sihao 学位授予日期：} & {\sihao \thedegreeAwardingDate} & {\sihao 答辩委员会主席：} &  {{\sihao \thedefenseChair \hspace{9pt} \thedefenseChairLevel \hspace{9pt}}}\\	
   \end{tabular}\\
@@ -938,9 +939,9 @@
   \renewcommand\thesection{\arabic{section}}
   \addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
   \setcounter{section}{0}
-  \chapter*{个人简历、在学期间发表的学术论文与研究成果}
-  \addcontentsline{toc}{chapter}{个人简历、在学期间发表的学术论文与研究成果}
-  \markboth{个人简历、在学期间发表的学术论文与研究成果}{个人简历、在学期间发表的学术论文与研究成果}
+  \chapter*{个人简历、攻读硕士学位期间科研成果及科研项目}
+  \addcontentsline{toc}{chapter}{个人简历、攻读硕士学位期间科研成果及科研项目}
+  \markboth{个人简历、攻读硕士学位期间科研成果及科研项目}{个人简历、攻读硕士学位期间科研成果及科研项目}
   \thispagestyle{fancy}
 }
 
