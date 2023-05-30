@@ -7,7 +7,7 @@
 **3）请加星加关注，加Star、watch；**
 
  
-4）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR
+4）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR、HeJJ
 
 ## 版本说明
 1）版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
