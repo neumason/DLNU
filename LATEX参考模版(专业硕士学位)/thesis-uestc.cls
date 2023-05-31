@@ -847,8 +847,8 @@
   \vspace{3cm}
   
   \begin{tabular}{>{\raggedleft\arraybackslash}p{0.45\textwidth}p{0.55\textwidth}} 
-   {\sihao Supervisor：} & {\sihao \theadvisorLevelEn \theadvisorEn}  \\
-   {\sihao Associate Supervisor：} & {\sihao \thefuadvisorLevelEn \thefuadvisorEn}  \\
+   {\sihao Supervisor：} & {\sihao \theadvisorLevelEn \theadvisorEn \hspace{3.3pt} \thefuadvisorLevelEn \thefuadvisorEn}  \\
+  % {\sihao Associate Supervisor：} & {\sihao \thefuadvisorLevelEn \thefuadvisorEn}  \\
   \end{tabular}\\
   
   \vspace{5cm}
