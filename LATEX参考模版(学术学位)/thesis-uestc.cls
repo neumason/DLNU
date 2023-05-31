@@ -781,7 +781,7 @@
    {\xiaosan \heiti 学\hspace{8pt}科\hspace{8pt}专\hspace{8pt}业} & {\xiaosan \heiti \thesubjectCategory} \\
    {\xiaosan \heiti 研\hspace{8pt}究\hspace{8pt}方\hspace{8pt}向} & {\xiaosan \heiti \thesubjectMajor} \\
    {\xiaosan \heiti 指\hspace{8pt}导\hspace{8pt}教\hspace{8pt}师} & {\xiaosan \heiti \theadvisor \hspace{9pt} \theadvisorLevel }\\
-    {\xiaosan \heiti 副\hspace{2pt}指\hspace{2pt}导\hspace{2pt}教\hspace{2pt}师} & {\xiaosan \heiti \thefuadvisor \hspace{9pt} \thefuadvisorLevel}\\
+ %   {\xiaosan \heiti 副\hspace{2pt}指\hspace{2pt}导\hspace{2pt}教\hspace{2pt}师} & {\xiaosan \heiti \thefuadvisor \hspace{9pt} \thefuadvisorLevel}\\
    {\xiaosan \heiti 所\hspace{8pt}在\hspace{8pt}学\hspace{8pt}院} & {\xiaosan \heiti \thedepartment} 
   \end{tabular}
 \end{center}
@@ -816,7 +816,7 @@
   \begin{tabular}{>{\raggedleft\arraybackslash}p{0.21\textwidth}p{0.27\textwidth}>{\raggedleft\arraybackslash}p{0.24\textwidth}p{0.28\textwidth}} 
    {\sihao 作\hspace{9pt}者\hspace{9pt}姓\hspace{9pt}名：} & \multicolumn{3}{l}{{\sihao \theauthor}}  \\
    {\sihao 指\hspace{9pt}导\hspace{9pt}教\hspace{9pt}师：} & \multicolumn{3}{l}{{\sihao \theadvisor \hspace{9pt} \theadvisorLevel \hspace{9pt} \theadvisorDepartment}}  \\
-   {\sihao 副\hspace{3.3pt}指\hspace{3.3pt}导\hspace{3.3pt}教\hspace{3.3pt}师：} & \multicolumn{3}{l}{{\sihao \thefuadvisor \hspace{9pt} \thefuadvisorLevel \hspace{9pt} \thefuadvisorDepartment}}  \\
+  % {\sihao 副\hspace{3.3pt}指\hspace{3.3pt}导\hspace{3.3pt}教\hspace{3.3pt}师：} & \multicolumn{3}{l}{{\sihao \thefuadvisor \hspace{9pt} \thefuadvisorLevel \hspace{9pt} \thefuadvisorDepartment}}  \\
    {\sihao 申请学位层次：} & {\sihao \thedegreeLevel}  & {\sihao 学\hspace{2pt}科\hspace{2pt}专\hspace{2pt}业：} & {\sihao \thesubjectCategory} \\
    {\sihao 研究方向名称：} & \multicolumn{3}{l}{{\sihao \thesubjectMajor}} \\
    {\sihao 论文提交日期：} & {\sihao \thepaperSubmitDate }  & {\sihao 论\hspace{2.6pt}文\hspace{2.6pt}答\hspace{2.6pt}辩\hspace{2.6pt}日\hspace{2.6pt}期：} & {\sihao \thepaperDefenseDate} \\
@@ -848,7 +848,7 @@
   
   \begin{tabular}{>{\raggedleft\arraybackslash}p{0.45\textwidth}p{0.55\textwidth}} 
    {\sihao Supervisor：} & {\sihao \theadvisorLevelEn \theadvisorEn}  \\
-   {\sihao Associate Supervisor：} & {\sihao \thefuadvisorLevelEn \thefuadvisorEn}  \\
+  % {\sihao Associate Supervisor：} & {\sihao \thefuadvisorLevelEn \thefuadvisorEn}  \\
   \end{tabular}\\
   
   \vspace{5cm}
