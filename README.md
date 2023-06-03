@@ -16,7 +16,7 @@
 
 8）TeXstudio下载地址：https://www.texstudio.org/#download
 
-9)整体保持了Latex2018版本的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
+9)整体保持了[Latex2018版本](https://github.com/neumason/DLNU/tree/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E8%AE%BA%E6%96%87%E6%A8%A1%E6%9D%BF2018v2.0)的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
 10）计算机科学与工程学院同学学位论文必须使用Latex否则可能不送审。
 
