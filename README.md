@@ -1,20 +1,26 @@
 ## 大连民族大学研究生学位论文Latex和word参考模版
 
-1）本模板由中心研究生按学校学位论文规范理解开发制作的参考模板；
+1）本模板按学校学位论文规范理解开发制作的参考模板；
 
-2）参考模版、参考模版、参考模版！如有不足请批评指正；
+2）参考模版，如有不足请批评指正；
+
+3）论文样式主要以Latex为准，Word模版主要根据Latex样式进行的更新，整体保持了2018版本的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
+
+4）Latex由计算机学院友情免费开发，Word版本由信通学院友情免费制作；
+
+5）具体样式链接学术学位PDF，专业学位PDF；
 
 **3）请加星加关注，加Star、watch；**
 
  
-4）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR、HeJJ
+6）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR、HeJJ
 
-5）texlive下载地址：https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/
+7）texlive下载地址：https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/
 
-6）TeXstudio下载地址：https://www.texstudio.org/#download
+8）TeXstudio下载地址：https://www.texstudio.org/#download
 
 ## 版本说明
-1）版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
+1）Latex版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
 
 2）版本信息v1.1，时间为2023年5月19日，对页面进行了脚本修改，增加了页码左右横线。
 

@@ -1,0 +1,92 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[丁纯 and 李君扬(2014)]{dc2014}
+丁纯, 李君扬.
+\newblock 德国“工业4.0”:内容、动因与前景及其启示[J].
+\newblock 德国研究, 2014(4):49--66.
+
+\bibitem[邱海峰(2017)]{qhf2017peopledialy}
+邱海峰.
+\newblock 当“中国制造2025”遇上德国“工业4.0”[J].
+\newblock 人民日报海外版, 2017(3):80--80.
+
+\bibitem[习近平(2017)]{xjp2017}
+习近平.
+\newblock
+  决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告[J].
+\newblock 学理论, 2017(11):6--23.
+
+\bibitem[马小宁 et al.(2017)]{mxn2017}
+马小宁, 杜尚泽, 管克江.
+\newblock 习近平同德国总理默克尔举行会谈[J].
+\newblock 人民日报, 2017(001):65--65.
+
+\bibitem[国务院(2015)]{china2025}
+国务院.
+\newblock 国务院关于印发《中国制造2025》的通知[J].
+\newblock 中华人民共和国政府, 2015(国发〔2015〕28号):28--28.
+
+\bibitem[柴天佑 and 王伟(2017)]{cai2017ASS}
+柴天佑, 王伟.
+\newblock 中国过程控制会议30周年专刊序言[J].
+\newblock 自动化学报, 2017, 43(6):877--879.
+
+\bibitem[of~the President(2012)]{US2012}
+of~the President E~O.
+\newblock
+\newblock National strategic plan for advanced manufacturing[R].[S.l.]: U.S.:
+  National Science and Technology Council, 2012.
+
+\bibitem[of~the President(2014)]{US2014}
+of~the President E~O.
+\newblock
+\newblock Accelerating U.S. advanced manufacturing[R].[S.l.]: U.S.:
+  President’s Council of Advisors on Science and Technology, 2014.
+
+\bibitem[of~the Press~Secretary(2015-7-15)]{USA2015}
+of~the Press~Secretary O.
+\newblock
+\newblock Advanced Manufacturing Partnership[R].[S.l.]: [s.n.] , 2015-7-15.
+
+\bibitem[Lu et al.(2015)]{Lu2015Standards}
+Lu Y, Morris K~C, Frechette S.
+\newblock
+\newblock Standards landscape and directions for smart manufacturing
+  systems[C]//IEEE International Conference on Automation Science and
+  Engineering.
+\newblock .[S.l.]: [s.n.] , 2015:998--1005.
+
+\bibitem[段峰 et al.(2002)]{duanfeng2002}
+段峰, 王耀南, 雷晓峰, et al.
+\newblock 机器视觉技术及其应用综述[J].
+\newblock 自动化博览, 2002, 19(3):59--61.
+
+\bibitem[阮晋蒙(2017)]{ruan2017}
+阮晋蒙.
+\newblock 机器视觉:让中国制造2025“看”得更远[J].
+\newblock 新经济导刊, 2017(1):80--83.
+
+\bibitem[Microvison(2016-5-19)]{Microvison2016}
+Microvison.
+\newblock
+\newblock 机器视觉引发的智能制造领域变革[R].[S.l.]: [s.n.] ,
+  2016-5-19.
+
+\bibitem[中国自动化学会(2015-10-22)]{CAA2016}
+中国自动化学会.
+\newblock
+\newblock
+  工业4.0与机器视觉技术的大时代：工业迈入无人化[R].[S.l.]:
+  [s.n.] , 2015-10-22.
+
+\bibitem[刘燕华(2013)]{liu2013}
+刘燕华.
+\newblock 第三次工业革命与创新模式转型[J].
+\newblock 中国科技奖励, 2013(8):6--10.
+
+\end{thebibliography}

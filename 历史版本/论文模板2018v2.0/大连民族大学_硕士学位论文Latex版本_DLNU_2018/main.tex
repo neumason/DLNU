@@ -1,0 +1,131 @@
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+%  感谢 薛瑞尼 先生 苏湛 女士  做工优良的 清华博士论文模版
+%  2018-8 大连民族大学 dengxue 大连民族大学硕士学位论文1.0版本
+%  模版虽然改的不算太好, 经测试已经可以比较好的使用.
+%  仅支持 PDFlatex , 在 CTEX 环境下用各种编辑器均可使用
+%  软可件安装Ctex和texmaker最新版，编译选择PdfLaTex+Bib(la)tex+两次PdfLaTex+查看PDF
+%  main.tex 主体部分. 调整结构时, 修改main.tex文件, 论文整体编译时,也编译这个文件.
+% \data 目录下是论文的内容部分, 各个部分于各个章节分别用不同的tex文件表示.
+% \figures 所有的论文图片所存放的目录, 注意:pdflatex 不支持eps图片, 需要转换成pdf(推荐)/PNG/JPG
+% \ref 目录下存放 参考文献的bib数据包文件, 请替换；
+% 参考文献为了避免错误请使用jabRef 进行重复和质量检测
+% 软件推荐安装Ctex最新版本（http://www.ctex.org/CTeXDownload/）+texmaker(https://texmaker.en.softonic.com/)
+
+
+
+
+% 生成的 main.pdf 是论文, 可以直接打印.
+
+% 如果生成的main.pdf 体积过大, 可以用acrobat 虚拟打印机打印一次, 生成新的pdf文件就会很小了.
+ 
+\documentclass[doctor]{thuthesis}
+% \documentclass[%
+%   bachelor|master|doctor|postdoctor, % mandatory option
+%   xetex|pdftex|dvips|dvipdfm, % optional
+%   secret,
+%   openany|openright,
+%   arialtoc,arialtitle]{thuthesis}
+
+% 所有其它可能用到的包都统一放到这里了，可以根据自己的实际添加或者删除。
+\usepackage{thutils}
+\usepackage{setspace}
+\usepackage{algorithmic}
+\usepackage[justification=centering]{caption}
+\usepackage{supertabular}
+%\usepackage{ccaption}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{makecell} 
+%\usepackage{subfigure}
+\usepackage{float}
+
+% 你可以在这里修改配置文件中的定义，导言区可以使用中文。
+% \def\myname{薛瑞尼}
+% 自定义命令
+\newcommand{\RR}{\mathbf{R}}
+\newcommand{\WW}{\mathcal{W}}
+\newcommand{\dd}{\textrm{d}}
+\newcommand{\LL}{\mathcal{L}}
+\newcommand{\ii}{\mathcal{I}}
+\newcommand{\xx}{\xi}
+\newcommand{\BB}{{\mathcal{B}}}
+\newcommand{\End}{\qquad$\Box$}
+\newcommand{\algorithm}{\textbf{Algorithm}}
+\newcommand{\ZZ}{\mathcal{L}} %TODO this ZZ is what??
+\newcommand{\fcaption}[2]{
+									\caption{#1}
+									\addtocounter{figure}{-1}
+									\renewcommand{\figurename}{Fig.}
+									\caption{#2}									
+									}
+\newcommand{\tcaption}[2]{									
+									\caption{#1}
+									\addtocounter{table}{-1}
+									\renewcommand{\tablename}{Table}
+									\caption{#2}									
+									}
+\begin{document}
+% 定义所有的eps文件在 figures 子目录下
+\graphicspath{{figures/}}
+
+
+%%% 封面部分
+\frontmatter
+\input{data/cover}
+\makecover
+
+% 目录
+\tableofcontents
+
+% 符号对照表
+\input{data/denotation}
+
+
+%%% 正文部分
+\mainmatter
+\include{data/chap01}
+%\include{data/chap02}
+%\include{data/chap04}
+%\include{data/chap03}
+%\include{data/chap05}
+%\include{data/chap06}
+%\include{data/chap07}
+%%% 其它部分
+\backmatter
+
+% 本科生要这几个索引，研究生不要。选择性留下。
+\makeatletter
+\ifthu@bachelor
+  % 插图索引
+  \listoffigures
+  % 表格索引
+  \listoftables
+  % 公式索引
+  \listofequations
+\fi
+\makeatother
+
+
+% 参考文献
+\bibliographystyle{style/thubib_2}
+%\bibliographystyle{zjugbno}
+\bibliography{ref/refs}
+
+
+%% 致谢
+\include{data/ack}
+
+% 附录
+\begin{appendix}
+%\input{data/appendix01}
+\end{appendix}
+
+% 个人简历
+%%最终用
+\include{data/resume}
+%盲审用
+%\include{data/resume2}
+\end{document}
