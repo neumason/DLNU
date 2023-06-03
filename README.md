@@ -1,23 +1,22 @@
-## 大连民族大学研究生学位论文Latex和word参考模版
+## 大连民族大学研究生学位论文2023Latex和word参考模版
 
-1）本模板按学校学位论文规范理解开发制作的参考模板；
+1）本模板按学校[学位论文规范](https://github.com/neumason/DLNU/blob/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E5%A4%A7%E8%BF%9E%E6%B0%91%E6%97%8F%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E6%92%B0%E5%86%99%E8%A7%84%E8%8C%83-%E4%BF%A1%E9%80%9A20230603.doc)理解开发制作的参考模板；
 
 2）参考模版，如有不足请批评指正；
 
-3）论文样式主要以Latex为准，Word模版主要根据Latex样式进行的更新，整体保持了2018版本的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
+3）论文样式主要以Latex为准，Word模版主要根据Latex样式进行的更新;
 
-4）Latex由计算机学院友情免费开发，Word版本由信通学院友情免费制作；
+**4）Latex由计算机学院友情免费开发，Word版本由信通学院友情免费制作，请加星加关注，加Star、watch；**
 
-5）具体样式链接学术学位PDF，专业学位PDF；
+5）具体样式链接[学术学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E5%AD%A6%E6%9C%AF%E5%AD%A6%E4%BD%8D)/main_file.pdf)，[专业学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E4%B8%93%E4%B8%9A%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)/main_file.pdf)；
 
-**3）请加星加关注，加Star、watch；**
-
- 
 6）感谢为本模板做过开发制作的程序员：WangYG、GuoXQ、GaoYX、WangCR、HeJJ
 
 7）texlive下载地址：https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/
 
 8）TeXstudio下载地址：https://www.texstudio.org/#download
+
+9)整体保持了Latex2018版本的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
 ## 版本说明
 1）Latex版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
