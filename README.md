@@ -6,7 +6,7 @@
 
 3）论文样式主要以Latex为准，Word模版主要根据Latex样式进行的更新;
 
-**4）Latex由计算机学院友情免费开发，Word版本由信通学院友情免费制作，请加星加关注，加Star、watch；**
+**4）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
 
 5）具体样式链接[学术学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E5%AD%A6%E6%9C%AF%E5%AD%A6%E4%BD%8D)/main_file.pdf)，[专业学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E4%B8%93%E4%B8%9A%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)/main_file.pdf)；
 
@@ -18,6 +18,8 @@
 
 9)整体保持了Latex2018版本的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
+10）计算机科学与工程学院同学学位论文必须使用Latex否则可能不送审。
+
 ## 版本说明
 1）Latex版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
 
@@ -27,9 +29,9 @@
 
 1）Office word或WPS另存的PDF在外审系统中浏览器打开易出现乱码；
 
-2）Office word或WPS的公式转为PDF会变成图片，很不清晰，且有时候乱码。
+2）Office word或WPS的公式转为PDF会变成图片，且在外审系统网页显示有时候乱码，已经出现多起由于乱码外审被毙的同学。
 
-## Latex版式外审通过的法宝
+## Latex才是硕博学位论文的规范编辑系统，具体原因如下：
 
 1）	学位论文形式错误超过5个理论上外审就可以直接毙掉；
 
