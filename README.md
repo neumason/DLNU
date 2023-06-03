@@ -2,7 +2,7 @@
 
 1）本模板按学校[学位论文规范](https://github.com/neumason/DLNU/blob/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E5%A4%A7%E8%BF%9E%E6%B0%91%E6%97%8F%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E6%92%B0%E5%86%99%E8%A7%84%E8%8C%83-%E4%BF%A1%E9%80%9A20230603.doc)理解开发制作的参考模板；
 
-2）参考模版，如有不足请批评指正；
+2）整体保持了[Latex2018版本](https://github.com/neumason/DLNU/tree/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E8%AE%BA%E6%96%87%E6%A8%A1%E6%9D%BF2018v2.0)的风格和样式的升级参考模版，如有不足请批评指正；
 
 **3）论文样式主要以Latex为准，Word模版主要根据Latex样式进行的更新;**
 
@@ -16,9 +16,9 @@
 
 8）TeXstudio下载地址：https://www.texstudio.org/#download
 
-9)整体保持了[Latex2018版本](https://github.com/neumason/DLNU/tree/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E8%AE%BA%E6%96%87%E6%A8%A1%E6%9D%BF2018v2.0)的风格和样式，所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
+9) 所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
-10）计算机科学与工程学院同学学位论文必须使用Latex否则可能不送审。
+**10）计算机科学与工程学院同学学位论文必须使用Latex否则可能不送审。**
 
 ## 版本说明
 1）Latex版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
