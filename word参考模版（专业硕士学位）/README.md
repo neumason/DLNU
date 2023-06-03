@@ -11,4 +11,4 @@
 6. 制作模版作者使用的office版本如下图：
 ![QQ截图20230519151302](https://github.com/neumason/DLNU/assets/18734032/8eb35f57-ebd5-4d75-bcde-1e85c5103d7c)
 
-# 试一试Latex，Word坑太多，会积重难返！
+# 吸烟有害健康，word有害论文
