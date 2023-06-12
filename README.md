@@ -9,7 +9,7 @@
 **3）论文样式主要以Latex为准，Word模版主要根据Latex样式进行的更新;**
 
 
-4）具体样式链接[学术学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E5%AD%A6%E6%9C%AF%E5%AD%A6%E4%BD%8D)/main_file.pdf)，[专业学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E4%B8%93%E4%B8%9A%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)/main_file.pdf)；
+4）具体样式链接[学术学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E5%AD%A6%E6%9C%AF%E5%AD%A6%E4%BD%8D)/main_file.pdf)，[专业学位PDF](https://github.com/neumason/DLNU/blob/main/LATEX%E5%8F%82%E8%80%83%E6%A8%A1%E7%89%88(%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D)/main_file.pdf)；
 
 
 5）texlive下载地址：https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/
