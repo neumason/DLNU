@@ -42,7 +42,7 @@
 
 ## 小编不易免费开发——赞赏码
 
-<img src="https://github.com/neumason/DLNU/assets/18734032/3ac163c1-eb41-4801-88fd-0d2df7c1cd69" width="500" height="500" alt="赞赏码"/>
+<img src="https://github.com/neumason/DLNU/assets/18734032/3ac163c1-eb41-4801-88fd-0d2df7c1cd69" width="300" height="300" alt="赞赏码"/>
 
 
 
