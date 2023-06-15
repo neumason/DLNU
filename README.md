@@ -15,7 +15,7 @@
 
 6）TeXstudio下载地址：https://www.texstudio.org/#download
 
-7) 所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
+7） 所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
 **8）电子信息学位论文必须使用Latex否则可能不送审。**
 
