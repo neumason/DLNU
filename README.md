@@ -26,7 +26,7 @@
 
 **3）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
 
-4）感谢为本模板做过开发制作的程序员：WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin
+4）感谢制作本模板的程序员：WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin
 
 
 ## Latex才是硕博学位论文的规范编辑系统，具体原因如下：
