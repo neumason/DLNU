@@ -3,7 +3,7 @@
 **信息与通信工程学院友情免费制作**
 
 1.	建议作者使用微软office 2019及以上版本打开此模板，用WPS打开会产生错误。
-2.	必须安装字库，模版使用了黑体、宋体、Times New Roman字体，作者开始使用该模板前请安装该字体。字体文件在相应文件夹。
+2.	模版使用了黑体、宋体、Times New Roman字体。
 3.	如文中使用了公式，作者需使用MathType公式编辑器7.0，不要使用office自带公式编辑器（因为自带公式编辑器不能设置相应字体）。
 4.	彩色字体等说明性文字正式提交论文时请去掉。
 5.	https://www.mathtype.cn/xiazai.html mathtype绿色版下载，具体绿化教程参考：https://www.jinshanwps.com/news/52374.html 以上资料均来自于网络。
