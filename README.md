@@ -1,6 +1,6 @@
 ## 大连民族大学研究生学位论文Latex和word参考模版
 
-> 模板会每学年进行更新或修改bug，要得到最新的模板请加watching
+> **模板会每学年进行更新或修改bug，要得到最新的模板请加watching**
 
 1）本模板按学校[学位论文规范](https://github.com/neumason/DLNU/blob/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E5%A4%A7%E8%BF%9E%E6%B0%91%E6%97%8F%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E6%92%B0%E5%86%99%E8%A7%84%E8%8C%83-%E4%BF%A1%E9%80%9A20230603.doc)理解开发制作的参考模板；
 
