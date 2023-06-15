@@ -20,13 +20,17 @@
 **8）电子信息学位论文必须使用Latex否则不送外审。**
 
 ## 版本说明
-1）v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
+1）感谢制作本模板的程序员：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
 
-2） v1.1，时间为2023年6月2日，去掉了目录中的摘要、Abstract和符号说明的目录表示；
+**2）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
 
-**3）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
+3）v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
 
-4）感谢制作本模板的程序员：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
+4） v1.1，时间为2023年6月2日，去掉了目录中的摘要、Abstract和符号说明的目录表示；
+
+
+
+
 
 
 ## Latex才是硕博学位论文的规范编辑系统，具体原因如下：
