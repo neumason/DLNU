@@ -18,7 +18,7 @@
 
 7)所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
-**8）计算机科学与工程学院同学学位论文必须使用Latex否则可能不送审。**
+**8）电子信息学位论文必须使用Latex否则可能不送审。**
 
 ## 版本说明
 1）Latex版本信息v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
@@ -38,15 +38,7 @@
 
 4）	office和WPS各种公式编辑器太多，导致版式不一致；
 
-5）	文献不符合规范，容易缺项；
-
-## Latex优势
-
-1）Latex可以自动对图、表、公式和文献进行编号；
-
-2）Latex是忽略排版，直接上内容；
-
-3）详细的实力对比[Latex vs word ](https://blog.csdn.net/weixin_41628708/article/details/120643716)
+5）详细的对比[Latex vs word ](https://blog.csdn.net/weixin_41628708/article/details/120643716)
 
 ## 小编不易免费开发——赞赏码
 
