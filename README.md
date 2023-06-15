@@ -1,4 +1,4 @@
-## 大连民族大学研究生学位论文2023Latex和word参考模版
+## 大连民族大学研究生学位论文Latex和word参考模版
 
 `<模板会每学年进行更新或修改bug，要得到最新的模板请加watching>` 
 
@@ -23,11 +23,11 @@
 ## 版本说明
 1）v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
 
-2) v1.1，时间为2023年6月2日，
+2) v1.1，时间为2023年6月2日，去掉了目录的摘要和符号；
 
-**2）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
+**3）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
 
-3）感谢为本模板做过开发制作的程序员：WangYuanGang、GuoXiaoQi、GaoYaXin、WangCunRui、HeJianJun
+4）感谢为本模板做过开发制作的程序员：WangYuanGang、GuoXiaoQi、GaoYaXin、WangCunRui、HeJianJun
 
 
 ## Latex才是硕博学位论文的规范编辑系统，具体原因如下：
