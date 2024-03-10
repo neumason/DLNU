@@ -23,7 +23,7 @@
 1） 向量按要求采用加粗斜体，latex表达为$\textbf{\emph{A}}$
 
 ## 版本说明
-1）感谢制作本模板的程序员：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
+1）参与本模板制作的教师和学生：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
 
 2）Latex模板由计算机学院开发，Word模版由信通学院制作，请加星加关注，加Star、watch；**
 
