@@ -24,18 +24,18 @@
 
 ## 外审形式审查被毙掉的情况具体案例：
 
-1）	学位论文形式错误超过5个理论上外审就可以直接毙掉；
+**1）	Office word或WPS另存的PDF在学位论文外审系统中浏览器打开易出现乱码；**
 
-**2）	Office word或WPS另存的PDF在学位论文外审系统中浏览器打开易出现乱码；**
+2）	office和WPS频繁升级使得解析出现差异和错误；
 
-3）	office和WPS频繁升级使得解析出现差异和错误；
+**3）	office和WPS各种公式编辑器太多，导致版式不一致；**
 
-**4）	office和WPS各种公式编辑器太多，导致版式不一致；**
 
-5）详细的对比[Latex vs word ](https://blog.csdn.net/weixin_41628708/article/details/120643716)
 
 ## 常见问题
 1） 向量按要求采用加粗斜体，latex表达为$\textbf{\emph{A}}$
+
+2）详细的对比[Latex vs word ](https://blog.csdn.net/weixin_41628708/article/details/120643716)
 
 ## 版本说明
 1）参与本模板制作的教师和学生：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
