@@ -17,7 +17,7 @@
 
 7） 所以具体样式最终是否与Latex一致是作为论文版式是否规范的依据；
 
-**8）理工类专硕和学硕的学位论文建议使用Latex，如果使用WPS或Office默认公式编辑器，论文的公式会不满足学校和外审要求。**
+**8）理工类专硕和学硕的学位论文建议使用Latex，如果使用WPS或Office默认公式编辑器，论文的公式会不满足规定格式和外审要求。**
 
 ## 版本说明
 1）感谢制作本模板的程序员：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
