@@ -25,10 +25,9 @@
 ## 为何建议使用latex排版学位论文：
 
 ```JSON
-Some text highlighted in red! 123
+1）	近些年，由于Office word或WPS另存的PDF在学位论文外审系统中浏览器打开易出现乱码，导致外审专家毙掉多篇论文；
 ```
 
-**<font color=#900>1）	近些年，由于Office word或WPS另存的PDF在学位论文外审系统中浏览器打开易出现乱码，导致外审专家毙掉多篇论文；</font>**
 
 2）	office和WPS频繁升级使得解析出现差异和错误；
 
