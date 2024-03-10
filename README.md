@@ -22,7 +22,7 @@
 ## 版本说明
 1）感谢制作本模板的程序员：**WangYuanGang、WangCunRui、HeJianJun、GuoXiaoQi、GaoYaXin**
 
-**2）Latex模板由计算机学院友情免费开发，Word模版由信通学院友情免费制作，请加星加关注，加Star、watch；**
+2）Latex模板由计算机学院开发，Word模版由信通学院制作，请加星加关注，加Star、watch；**
 
 3）v1.0，时间为2023年5月8日，升级原来Ctex到texlive的latex编译环境；
 
@@ -33,7 +33,7 @@
 
 
 
-## Latex才是硕博学位论文的规范编辑系统，具体原因如下：
+## Latex才是学位论文的规范编辑系统，具体原因如下：
 
 1）	学位论文形式错误超过5个理论上外审就可以直接毙掉；
 
@@ -45,9 +45,4 @@
 
 5）详细的对比[Latex vs word ](https://blog.csdn.net/weixin_41628708/article/details/120643716)
 
-<!---
-// ## 小编不易免费开发——赞赏码
-
-// <img src="https://github.com/neumason/DLNU/assets/18734032/3ac163c1-eb41-4801-88fd-0d2df7c1cd69" width="300" height="300" alt="赞赏码"/>
--->
 
